@@ -3,7 +3,7 @@
 @section('content')
 
 
-<section class="T   ">
+<section class="T  djd ">
   <div id="carousel1" class="carousel slide" data-bs-ride="true">
    
           
